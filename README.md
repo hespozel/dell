@@ -1,5 +1,3 @@
-# senti Notebooks
-
 ##  Sentiment Classifier for Dell hackaton
 
 The objective of this project was to develop sentiment classifier that would be used in real life situations.
